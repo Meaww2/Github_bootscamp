@@ -14,6 +14,7 @@ Github นี้จัดทำขึ้นเพื่อเป็นไกด�
 11. [`Remote`](#remote)
 
 ## Introduction about Git and Github
+- How to install git
 - Ref: [ByteByteGo](https://www.youtube.com/watch?v=e9lnsKot_SQ)
     - **keyword**: local-working-space(playground), staging area, local-repo, remote-repo
 ## Git commands
@@ -29,7 +30,6 @@ Github นี้จัดทำขึ้นเพื่อเป็นไกด�
     - git revert **<commit-code\>**
     - git reset **<commit-code\>** / git reset **<commit-code\>** --hard
 
-## Github commands
 ## Collaboration
 ## Branching
 ## Pull request
